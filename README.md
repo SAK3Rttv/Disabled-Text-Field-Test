@@ -1,6 +1,6 @@
 # Selenium Practice: Text Retrieval & Keyboard Actions
 
-This project demonstrates two fundamental Selenium interactions on the **Omayo (QAFox)** blog: retrieving text from disabled elements and simulating keyboard "Return" actions in text areas.
+This project demonstrates two fundamental Selenium interactions on the [**Omayo (QAFox)**](https://omayo.blogspot.com/) blog: retrieving text from disabled elements and simulating keyboard "Return" actions in text areas.
 
 ## 🎯 Project Objectives
 1.  **Text Retrieval**: Use the `getText()` method to capture the inner text of a non-interactive (disabled) button.
@@ -24,7 +24,7 @@ This project demonstrates two fundamental Selenium interactions on the **Omayo (
 
 ### Installation & Cloning
 ```bash
-git clone https://github.com
+git clone https://github.com/SAK3Rttv/Selenium-Element-Interactions
 ```
 
 ### Execution
